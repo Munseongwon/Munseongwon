@@ -1,2 +1,2 @@
 Hi my name is SeongwonMun.
-I love Coding.
+I have been studying programming to achieve software developer.
