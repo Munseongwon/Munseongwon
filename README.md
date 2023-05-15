@@ -16,6 +16,6 @@
 <br>
 <div>
 <img width="49.73%" src="https://github-readme-stats-chi-sand-98.vercel.app/api?username=Munseongwon&show_icons=true">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Munseongwon&theme=transparent&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Munseongwon&theme=transparent&border_radius=4&locale=ko&date_format=M%20j%5B%2C%20Y%5D&type=png)](https://git.io/streak-stats)
 </div>
 <br><br><br><br> 
