@@ -9,8 +9,6 @@
 </h4>
 
 <br>
-<br>
-<br>
 
 ## Github stats
 <br>
