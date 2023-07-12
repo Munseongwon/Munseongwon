@@ -20,4 +20,9 @@
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Munseongwon&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&border=EB5454&stroke=EB5454&ring=EB5454&fire=EB5454&currStreakNum=EB5454&sideNums=EB5454&currStreakLabel=B71C95&sideLabels=9B1F84&dates=AE5DB2&background=0E160F"/>
   </a>
 </div>
+<div>
+  <a>
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munseongwon&layout=compact&theme=dark"/>
+  </a>
+</div>
 <br><br><br><br> 
