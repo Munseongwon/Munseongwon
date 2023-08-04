@@ -6,7 +6,7 @@
   <a target="_blank" href="https://velog.io/@seongwon819" >
   <img src="https://img.shields.io/badge/Velog-00A98F?style=flat&logo=Velog&logoColor=FFFFFF", height="24"></a>
   <img src="https://img.shields.io/badge/seongwon819@itc.mjc.ac.kr-EA4335?style=flat&logo=Minutemailer&logoColor=FFFFFF" height="24">
-  <a target="_blank" href="https://seongwon819.notion.site/seongwon819/27c4272245354c2ca327602fbcffed24"></a>
+  <a target="_blank" href="https://seongwon819.notion.site/seongwon819/27c4272245354c2ca327602fbcffed244"></a>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="MunSeongWon",height="24"/>
  </div> 
 </a>
