@@ -8,7 +8,7 @@
     <a target="_blank" href="https://seongwon819.notion.site/seongwon819/7a75e3f678d94b3490d2c311e8d12f7b"></a>
   <img src="https://img.shields.io/badge/seongwon819@itc.mjc.ac.kr-EA4335?style=flat&logo=Minutemailer&logoColor=FFFFFF" height="24"> 
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="MunSeongWon",height="24"/>
-     <a target="_blank" href="https://seongwon819.notion.site/seongwon819/27c4272245354c2ca327602fbcffed24"></a>
+     <a target="_blank" href="https://seongwon819.notion.site/seongwon819/7a75e3f678d94b3490d2c311e8d12f7b"></a>
  </div> 
 </a>
 
