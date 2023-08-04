@@ -2,13 +2,6 @@
   <img src="https://user-images.githubusercontent.com/47681139/205421822-7bf7ff45-81fd-40a0-91e2-1327e196c723.png">
  </div>
  
- <div align="center">
-  <a href="https://velog.io/@seongwon819" >
-  <img src="https://img.shields.io/badge/Velog-00A98F?style=flat&logo=Velog&logoColor=FFFFFF", height="24"></a>
-  <img src="https://img.shields.io/badge/seongwon819@itc.mjc.ac.kr-EA4335?style=flat&logo=Minutemailer&logoColor=FFFFFF" height="24">
- </div> 
-</a>
-
 <div align="center">
 <h4>Hello! There I'm Seongwon who wants to be an crossplatform an app dev 🧑🏽‍💻📱 </h4>
 <h4>I'm currently learning&nbsp;<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="24" height="24"/>&nbsp; </a> and&nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="24" height="24"/> </a> </h4>
