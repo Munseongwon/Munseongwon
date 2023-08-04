@@ -8,7 +8,7 @@
 
 <h4> I'm interested in&nbsp; <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" title="Nodejs" width="30" height="30"/> </a> &nbsp;and&nbsp; <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" title="Laravel" width="30" height="30"/></a></h4>
 
-<h4> Here's My Skill set 
+<h4> Here's My Main Skill set 
 </h4>
  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=FFFFFF", height="24"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=FFFFFF" height="24">
 </div>
