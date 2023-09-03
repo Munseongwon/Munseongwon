@@ -4,8 +4,7 @@
  
 <div align="center">
 <h4>Hello! There I'm Seongwon who wants to be an crossplatform an app dev 🧑🏽‍💻📱 </h4>
-<h4>I'm currently learning&nbsp;<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="24" height="24"/>&nbsp; </a> and&nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="24" height="24"/> </a> </h4>
-
+<h4>I'm currently learning&nbsp;<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="24" height="24"/>&nbsp; </a> and&nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="24" height="24"/></a>&nbsp;and&nbsp;<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" title="Kotlin" width="24" height="24"/>&nbsp; </a> and&nbsp; <a href="https://developer.android.com/?hl=ko" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" title="Android" width="24" height="24"/>
 <h4> I'm interested in&nbsp; <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" title="Nodejs" width="30" height="30"/> </a> &nbsp;and&nbsp; <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" title="Laravel" width="30" height="30"/></a></h4>
 
 <h4> Here's My Main Skill set 
