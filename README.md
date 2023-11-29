@@ -4,14 +4,14 @@
  
 <div align="center">
 <h4>Hello! There I'm MunSeongWon who wants to be an  SW Engineer 🧑🏽‍💻 </h4>
-<h4>I'm currently learning&nbsp;<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="24" height="24"/>&nbsp; </a> and&nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="24" height="24"/></a>&nbsp;
-<h4> I'm interested in&nbsp; <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" title="Nodejs" width="30" height="30"/> </a> &nbsp;</h4>
+<h4>I'm currently learning&nbsp;<a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" title="C++" width="24" height="24"/>&nbsp; </a> and&nbsp; <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" title="C" width="24" height="24"/></a>and&nbsp<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" title="Python" width="24" height="24"/></a>&nbsp;
+<h4> I'm interested in&nbsp; <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" title="Flutter" width="24" height="24"/> </a> &nbsp;</h4>
 
 <h4> Here's My Main Skill set 
 </h4>
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-0175C2?style=flat-square&logo=cplusplus&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C-02569B?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </div>
 <br>
