@@ -10,7 +10,6 @@
 <h4> Here's My Main Skill set 
 </h4>
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/C++-0175C2?style=flat-square&logo=cplusplus&logoColor=white"/> 
  <img src="https://img.shields.io/badge/C-02569B?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </div>
